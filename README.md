@@ -11,7 +11,7 @@ The citySchema project is about working through many of these problems from end-
 
 The tools and procedures that are shared here are based on an ArcGIS Pro geoprocessing tools and Tasks, and geodatabase data management architecture.  The basic collection management patterns, which are documented in the wiki for this github site could also be created for other software.  
 
-Provides:
+Use Cases:
 * Intake and enrollement of new models in a variety of formats and coordinate systems
 * Produce new building, bridge and wall models using GIS. 
 * Establish and preserve model-specific information reflecting provenance, links to pertinent references
