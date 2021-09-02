@@ -1,5 +1,5 @@
 # CitySchema-ModelManagement
-##Tools and procedures for managing a collection of geographically referenced 3D building models.
+## Tools and procedures for managing a collection of geographically referenced 3D building models.
 
 The CitySchema city model architecture provides a modular, Digital Asset Management strategy for developing, maintaining and sharing city models as modular collections of detailed terrain, ground-plan and buildng, bridge and wall models. The tool-kit presented in this git-hub repository is concerned with the management og a collection of 3D models representing the current, historical and future buildings, bridges and walls. [https://pbcgis.github.io/CitySchema-Bos3d-RepositoryCatalog/catalog/model_collection.htm](Click here to learn more about the citySchema model collection). Or here to [https://pbcgis.github.io/CitySchema-Bos3d-RepositoryCatalog/catalog/doc_index.htm](learn more about the overall citySchema sharing scheme).  
 
